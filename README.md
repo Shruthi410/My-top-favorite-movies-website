@@ -1,0 +1,2 @@
+# My-top-favorite-movies-website
+Have you ever seen websites that compile lists of their top favorite movies of all time? I have built a website just like that using Flask/WTForms/SQLite/SQLAlchemy/Bootstrap/HTML/CSS and more. It will allow us to create a beautiful website that lists our top 10 films of all time. As we watch more movies, we can always update our list and keep track of which movies to recommend people.
